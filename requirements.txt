@@ -1,0 +1,11 @@
+#xmltodict library
+pip install xmltodict
+
+#JSON library: import json
+
+#YAML library
+pip install pyYAML
+
+#CSV library: import csv
+
+#YANG library pyang: import pyang
